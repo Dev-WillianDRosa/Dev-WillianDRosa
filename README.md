@@ -1,7 +1,7 @@
 <h3 align="left">👋 Sobre Mim</h3>
 
 <p>
-  Olá! Meu nome é <strong>Willian Da Rosa</strong> e sou um desenvolvedor <strong>Back-End</strong>.  
+  Olá! Meu nome é <strong>Willian</strong> e sou um desenvolvedor <strong>Back-End</strong>.  
 </p>
 
 <p>
