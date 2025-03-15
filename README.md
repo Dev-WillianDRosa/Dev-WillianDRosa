@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  Tenho <strong>18 anos</strong> e estou sempre em busca de novos desafios e oportunidades para evoluir na carreira como desenvolvedor. 🚀  
+  Tenho <strong>19 anos</strong> e estou sempre em busca de novos desafios e oportunidades para evoluir na carreira como desenvolvedor. 🚀  
 </p>
 
 <div align="left">
